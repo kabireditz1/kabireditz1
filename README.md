@@ -5,8 +5,11 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 📫 How to reach me **kabireditz1@gmail.com**
-- ⚡ Fun fact **I'm funny 😜**
+
+- 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 --- kabireditz1@gmail.com 
+
+- 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭 ---  I'm funny 😜
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kabireditz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kabireditz7" height="30" width="40" /></a>
