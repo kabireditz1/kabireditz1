@@ -1,4 +1,4 @@
-![logo](https://github.com/kabireditz1/kabireditz1/blob/main/kabireditz1 [53F361C].png)
+![logo](https://github.com/kabireditz1/kabireditz1/blob/main/kabireditz1%20%5B53F361C%5D.png)
 
 <h1 align="center">Hi 👋, I'm KABIR</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
